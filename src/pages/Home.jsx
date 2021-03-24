@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 
 // Import Components
-import Note from './Note'
+import Note from '../components/Note'
 import New from './New'
 import Paper from '../components/Paper'
 
